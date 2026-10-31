@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+baixas_registradas.csv
+.streamlit/secrets.toml
